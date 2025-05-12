@@ -50,12 +50,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnoTherK-ATK&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
-<!-- Hiệu ứng rắn ăn commit -->
 ---
 
-### 🐍 GitHub Contribution Snake:
+### 📂 My Projects:
 
-![Snake animation](https://github.com/AnoTherK-ATK/AnoTherK-ATK/blob/output/github-contribution-grid-snake.svg)
+- [**Le Hong Phong Online Judge**](https://github.com/AnoTherK-ATK/LHPOJ)
+- [**Netflop**](https://github.com/AnoTherK-ATK/Netflop)
+- [**AES & DES**](https://github.com/AnoTherK-ATK/AES-DES-cryptopp)
 
 <!-- Cảm ơn -->
 ---
