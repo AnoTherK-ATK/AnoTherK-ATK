@@ -1,13 +1,13 @@
 <!-- Banner chào mừng -->
 <h1 align="center">Hi 👋, I'm Vũ Ngọc Quốc Khánh</h1>
-<h3 align="center">Information Security Student | Web Developer | CTF Enthusiast</h3>
+<h3 align="center">Information Security Student | Games Enoyer</h3>
 
 <!-- Liên kết mạng xã hội -->
 <p align="center">
   <a href="https://www.facebook.com/anotherk.da" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:khanhvu212@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -17,9 +17,7 @@
 
 🎓 I'm currently studying Information Security at UIT - Vietnam National University.
 
-💻 Passionate about Web Development and Cybersecurity.
-
-🛡️ Actively participating in CTF competitions and security challenges.
+💻 Passionate about Development and Cybersecurity.
 
 🌱 Continuously learning and exploring new technologies.
 
